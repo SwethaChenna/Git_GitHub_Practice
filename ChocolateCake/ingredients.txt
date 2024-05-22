@@ -1,6 +1,7 @@
 Ingredients
 The Most Amazing Chocolate Cake
 
+    buy the ingredients
     butter and flour for coating and dusting the cake pan
     3 cups all-purpose flour
     3 cups granulated sugar
